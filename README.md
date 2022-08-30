@@ -1,16 +1,13 @@
-### Hi there 👋
+<div align="center">
 
-<!--
-**cksdn43/cksdn43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello.
 
-Here are some ideas to get you started:
+<br/> <br/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![cksdn43's GitHub stats](https://github-readme-stats.vercel.app/api?username=cksdn43&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cksdn43&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/> <br/> 
+
+![DisastrousCalculatingBlackrhino-size_restricted](https://user-images.githubusercontent.com/101384306/187433817-3604f246-f667-45af-acfe-a0b9d9882736.gif)
+</div>
