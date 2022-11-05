@@ -1,5 +1,5 @@
 <br/>
-<h1 align="center">Hello.</h1>
+<h1>Hello.</h1>
   
 ![pigeon-fly](https://user-images.githubusercontent.com/101384306/200125403-14b7b951-3709-453d-9d3d-c50c2d81845d.gif)
 
