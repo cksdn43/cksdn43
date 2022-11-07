@@ -8,7 +8,6 @@
 <pre>
 I'm Computer Science & Engineering student
 My main programming language is Python.
-I'm interested in the Coding test, Data science, and AI
 </pre>
 
 <h2>MY-status</h2>
