@@ -1,10 +1,4 @@
-
-<h1>&nbsp;Hello.</h1>
-  
-![pigeon-fly](https://user-images.githubusercontent.com/101384306/200125403-14b7b951-3709-453d-9d3d-c50c2d81845d.gif)
-
-
-<h2>Brief self-introduction</h2>
+<h2>profile</h2>
 <pre>
 I'm Computer Science & Engineering student
 My main programming language is Python.
@@ -19,3 +13,4 @@ My main programming language is Python.
 
 <h2>Achieve</h2>
 
+![pigeon-fly](https://user-images.githubusercontent.com/101384306/200125403-14b7b951-3709-453d-9d3d-c50c2d81845d.gif)
