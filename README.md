@@ -1,4 +1,4 @@
-<h2>profile</h2>
+<h2>Introduction</h2>
 <pre>
 I'm Computer Science & Engineering student
 My main programming language is Python.
